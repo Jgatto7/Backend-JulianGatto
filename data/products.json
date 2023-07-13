@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Pelota profesional",
+        "description": "Un balon deportivo, elegante, de poco peso y última generación",
+        "price": 50000,
+        "thumbnail": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/04fe886d5c5146a39037aae300d81639_9366/Pelota_Tsubasa_Pro_UNISEX_Blanco_FR8367_02_standard_hover.jpg",
+        "code": "AD001",
+        "stock": 3
+    },
+    {
+        "id": 2,
+        "title": "Pelota Semi-profesional",
+        "description": "A spacious and safe SUV ideal for families",
+        "price": 35000,
+        "thumbnail": "image2.jpg",
+        "code": "FS002",
+        "stock": 5
+    },
+    {
+        "id": 3,
+        "title": "Electric Car",
+        "description": "An eco-friendly and efficient vehicle with cutting-edge technology",
+        "price": 40000,
+        "thumbnail": "image3.jpg",
+        "code": "EC003",
+        "stock": 2
+    }
+]
